@@ -1,16 +1,82 @@
-# React + Vite
+# 👋 Hello! I'm Safal Chhetri
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I am a versatile **Full-Stack Developer** and **DevOps Engineer** specializing in the end-to-end development, deployment, and scaling of modern web applications.
 
-Currently, two official plugins are available:
+My passion lies in bridging the gap between high-quality code and robust, reliable cloud infrastructure.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Professional Focus: Full-Stack & DevOps
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Currently working as a **DevOps Engineer at NoteX Studios**. My responsibilities involve streamlining CI/CD pipelines, managing cloud resources, and ensuring system stability.
 
-## Expanding the ESLint configuration
+### 🌐 Full-Stack Development
+I leverage the modern JavaScript ecosystem to build dynamic and performant user interfaces and APIs.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### ☁️ Cloud & Infrastructure
+I focus on Linux environments, server development, deployment strategies, and general cloud architecture.
+
+---
+
+## 🛠️ Tech Stack & Toolkit
+
+I work with a diverse set of technologies, specializing in the following:
+
+### 💻 Frontend, UI/UX & Graphics Design
+| Technology | Category |
+| :--- | :--- |
+| **React** | Core Library |
+| **Three.js** | 3D Graphics / Immersive Experiences |
+| **Vite** | Build Tooling |
+| **Tailwind CSS** | Styling / Utility CSS |
+| **Figma** | **Prototyping & UI Design** |
+| **Canva Pro** | **Graphic Design & Assets** |
+| **Adobe Photoshop** | Basic Image Editing |
+
+### ⚙️ Backend & Data
+| Technology | Category |
+| :--- | :--- |
+| **Node.js** & **Express** | Runtime & Framework |
+| **Mongoose** | MongoDB ODM |
+| **MongoDB** & **SQL** | Primary Databases |
+| **Firebase** | Backend as a Service |
+
+### ☁️ DevOps, Cloud & Deployment
+| Technology | Category |
+| :--- | :--- |
+| **Linux** | Server OS / Command Line |
+| **AWS** | Cloud Services (EC2, S3, etc.) |
+| **Netlify** & **Vercel** | Modern Frontend Deployment |
+
+---
+
+## 💡 Key Projects & Contributions
+
+Here are a few notable projects that demonstrate my full-stack and deployment capabilities:
+
+| Project Name | Status | Technology Showcase |
+| :--- | :--- | :--- |
+| **🏫 Shree Tribhuwan Shanti Secondary School** | Live Project (`stsss.edu.np`) | Full-Stack web application development for a government school. |
+| **🧼 Akuner Cleaning Services** | Launching Soon | Commercial web platform development for a Sydney, Australia-based service. |
+
+---
+
+## 🤝 Let's Connect!
+
+Find me online and let's talk about development, deployment, or open-source collaboration!
+
+* **🌐 Portfolio:** [safalchhetri.com.np](https://safalchhetri.com.np)
+* **📧 Email:** `contact@safalchhetri.com.np`
+* **🔗 LinkedIn:** [safaldev](https://linkedin.com/in/safaldev)
+* * **Old Github:** [Hypixel2](https://github.com/hypixel2)
+* **🔭 What I'm Up To:** I occasionally post about my learnings in DevOps and JavaScript on my blog.
+
+---
+
+<div align="center">
+  <h3>GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=safalchhetri&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" alt="Safal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safalchhetri&layout=compact&theme=dark&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" alt="Top Languages" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=safalchhetri&color=blue" alt="Profile views" />
+</div>

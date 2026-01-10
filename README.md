@@ -58,7 +58,7 @@ Here are a few notable projects that demonstrate my full-stack and deployment ca
 | :--- | :--- | :--- |
 | **🏫 Shree Tribhuwan Shanti Secondary School** | Live Project (`stsss.edu.np`) | Full-Stack web application development for a government school. |
 | **🧼 Akuner Cleaning Services** | Live Project (`akunercleaningsydney.com`) | Commercial web platform development for a Sydney, Australia-based service. |
-| **🧼 NoteX Studios** | Live (`akunercleaningsynotexstudio.cloud`) | A moderm landing page for company NoteX Studios |
+| **🧼 NoteX Studios** | Live (`notexstudio.cloud`) | A moderm landing page for company NoteX Studios |
 
 ---
 

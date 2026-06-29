@@ -1,83 +1,47 @@
-# 👋 Hello! I'm Safal Chhetri
+# Safal Chhetri
 
-I am a versatile **Full-Stack Developer** and **DevOps Engineer** specializing in the end-to-end development, deployment, and scaling of modern web applications.
+**Full-Stack Developer & DevOps Engineer**
 
-My passion lies in bridging the gap between high-quality code and robust, reliable cloud infrastructure.
-
----
-
-## 🚀 Professional Focus: Full-Stack & DevOps
-
-Currently working as a **DevOps Engineer at NoteX Studios**. My responsibilities involve streamlining CI/CD pipelines, managing cloud resources, and ensuring system stability.
-
-### 🌐 Full-Stack Development
-I leverage the modern JavaScript ecosystem to build dynamic and performant user interfaces and APIs.
-
-### ☁️ Cloud & Infrastructure
-I focus on Linux environments, server development, deployment strategies, and general cloud architecture.
+I build and ship modern web applications — from UI to infrastructure. Currently working as a DevOps Engineer at [NoteX Studios](https://notexstudio.cloud), where I manage CI/CD pipelines, cloud resources, and system reliability.
 
 ---
 
-## 🛠️ Tech Stack & Toolkit
+## Tech Stack
 
-I work with a diverse set of technologies, specializing in the following:
+**Frontend**
+React · Three.js · Vite · Tailwind CSS
 
-### 💻 Frontend, UI/UX & Graphics Design
-| Technology | Category |
+**Backend**
+Node.js · Express · MongoDB · Mongoose · Firebase · SQL
+
+**DevOps & Cloud**
+Linux · AWS (EC2, S3) · Netlify · Vercel
+
+**Design**
+Figma · Canva Pro · Adobe Photoshop
+
+---
+
+## Projects
+
+| Project | Description |
 | :--- | :--- |
-| **React** | Core Library |
-| **Three.js** | 3D Graphics / Immersive Experiences |
-| **Vite** | Build Tooling |
-| **Tailwind CSS** | Styling / Utility CSS |
-| **Figma** | **Prototyping & UI Design** |
-| **Canva Pro** | **Graphic Design & Assets** |
-| **Adobe Photoshop** | Basic Image Editing |
-
-### ⚙️ Backend & Data
-| Technology | Category |
-| :--- | :--- |
-| **Node.js** & **Express** | Runtime & Framework |
-| **Mongoose** | MongoDB ODM |
-| **MongoDB** & **SQL** | Primary Databases |
-| **Firebase** | Backend as a Service |
-
-### ☁️ DevOps, Cloud & Deployment
-| Technology | Category |
-| :--- | :--- |
-| **Linux** | Server OS / Command Line |
-| **AWS** | Cloud Services (EC2, S3, etc.) |
-| **Netlify** & **Vercel** | Modern Frontend Deployment |
+| [guruskul.app](https://guruskul.app) | Edutech LMS platform — end-to-end learning management system |
+| [stsss.edu.np](https://stsss.edu.np) | Full-stack web platform for Shree Tribhuwan Shanti Secondary School |
+| [akunercleaningsydney.com](https://akunercleaningsydney.com) | Commercial web platform for a Sydney-based cleaning service |
+| [notexstudio.cloud](https://notexstudio.cloud) | Company landing page for NoteX Studios |
 
 ---
 
-## 💡 Key Projects & Contributions
-
-Here are a few notable projects that demonstrate my full-stack and deployment capabilities:
-
-| Project Name | Status | Technology Showcase |
-| :--- | :--- | :--- |
-| **🏫 Shree Tribhuwan Shanti Secondary School** | Live Project (`stsss.edu.np`) | Full-Stack web application development for a government school. |
-| **🧼 Akuner Cleaning Services** | Live Project (`akunercleaningsydney.com`) | Commercial web platform development for a Sydney, Australia-based service. |
-| **🧼 NoteX Studios** | Live (`notexstudio.cloud`) | A modern landing page for company NoteX Studios |
-
----
-
-## 🤝 Let's Connect!
-
-Find me online and let's talk about development, deployment, or open-source collaboration!
-
-* **🌐 Portfolio:** [safalchhetri.com.np](https://safalchhetri.com.np)
-* **📧 Email:** `contact@safalchhetri.com.np`
-* **🔗 LinkedIn:** [safaldev](https://linkedin.com/in/safaldev)
-* * **Old Github:** [Hypixel2](https://github.com/hypixel2)
-* **🔭 What I'm Up To:** I occasionally post about my learnings in DevOps and JavaScript on my blog.
-
----
+## GitHub Stats
 
 <div align="center">
-  <h3>GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=safalchhetri&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" alt="Safal's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safalchhetri&layout=compact&theme=dark&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" alt="Top Languages" />
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=safalchhetri&color=blue" alt="Profile views" />
+  <img src="https://github-readme-stats.vercel.app/api?username=safalchhetri&show_icons=true&theme=dark&hide_border=true&count_private=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safalchhetri&layout=compact&theme=dark&hide_border=true&title_color=00FFFF&text_color=FFFFFF" alt="Top Languages" />
 </div>
+
+---
+
+## Connect
+
+[Portfolio](https://safalchhetri.com.np) · [LinkedIn](https://linkedin.com/in/safaldev) · [GitHub](https://github.com/safalchhetri) · [contact@safalchhetri.com.np](mailto:contact@safalchhetri.com.np)
